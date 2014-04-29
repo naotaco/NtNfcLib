@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NdefUtils
+namespace NtNfcLib
 {
     public class NdefParseException : Exception
     {

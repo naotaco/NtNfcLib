@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace NdefUtils
+namespace NtNfcLib
 {
     public class NdefRecord
     {

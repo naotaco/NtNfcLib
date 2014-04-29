@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NdefUtils
+namespace NtNfcLib
 {
     public class NoSonyNdefRecordException : Exception
     {

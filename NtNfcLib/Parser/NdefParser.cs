@@ -5,7 +5,7 @@ using System.Runtime.InteropServices.WindowsRuntime;
 using System.Text;
 using Windows.Networking.Proximity;
 
-namespace NdefUtils
+namespace NtNfcLib
 {
     public class NdefParser
     {
