@@ -83,7 +83,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Misc\NoNdefRecordException.cs" />
+    <Compile Include="Misc\NoSonyNdefRecordException.cs" />
+    <Compile Include="Misc\ParseException.cs" />
+    <Compile Include="Misc\SonyNdefRecord.cs" />
+    <Compile Include="Parser\NdefParser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).$(TargetFrameworkVersion).Overrides.targets" />
