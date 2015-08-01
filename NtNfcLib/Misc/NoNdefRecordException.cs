@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NtNfcLib
+namespace Naotaco.Nfc
 {
     public class NoNdefRecordException : Exception
     {

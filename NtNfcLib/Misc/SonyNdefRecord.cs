@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace NtNfcLib
+namespace Naotaco.Nfc
 {
     public class NdefRecord
     {
